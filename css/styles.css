@@ -479,7 +479,7 @@ padding: 32px 16px;
 .footer-dark-bg {
     background-color: var(--navyblue, #2e2f42);
     padding: 100px 0;
-    height: 312px;
+   
 
 }
 .footer-block {
@@ -522,7 +522,7 @@ justify-content: flex-start;
 }
 
 .box-footer-link {
-    margin-right: 120px;
+    
 } 
 
 
